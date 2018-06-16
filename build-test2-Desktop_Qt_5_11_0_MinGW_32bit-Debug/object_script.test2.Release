@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\Player.o
+./release\Plane.o
+./release\bullet.o
+./release\enemy.o
+./release\moc_mainwindow.o
+./release\moc_Player.o
+./release\moc_Plane.o
+./release\moc_bullet.o
+./release\moc_enemy.o
+);

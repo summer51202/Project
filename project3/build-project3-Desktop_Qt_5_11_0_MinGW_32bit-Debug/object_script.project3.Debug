@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\plane.o
+./debug\player.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\plane.o
+./debug\player.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\plane.o
+./debug\player.o
+./debug\moc_mainwindow.o
+./debug\moc_plane.o
+./debug\moc_player.o
+);
